@@ -372,6 +372,14 @@ p {
     padding: 40px 32px;
 }
 
+.project-caption p {
+    color: black;
+}
+
+.portfolio-footer {
+    display: block;
+}
+
 /*FOOTER STYLING*/
 .logo-studio-footer {
     color: var(--cloud);
